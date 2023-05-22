@@ -1,0 +1,27 @@
+git                      git-el                   git-mediawiki
+git2cl                   git-email                git-merge-changelog
+git-all                  git-extras               gitolite3
+git-annex                git-flow                 git-phab
+git-annex-remote-rclone  git-ftp                  gitpkg
+gitano                   gitg                     git-publish
+gitbatch                 git-gui                  git-quick-stats
+gitbrute                 github-backup            git-reintegrate
+git-buildpackage         gitinspector             git-remote-gcrypt
+git-buildpackage-rpm     gitit                    git-repair
+git-build-recipe         gitk                     git-restore-mtime
+git-cola                 gitlab-cli               git-review
+git-crecord              gitlabracadabra          git-revise
+git-crypt                gitlab-runner            git-secret
+git-cvs                  gitlab-shell             git-secrets
+git-daemon-run           gitlab-workhorse         git-sizer
+git-daemon-sysvinit      gitless                  gitso
+git-debpush              git-lfs                  gitsome
+git-debrebase            gitlint                  git-svn
+git-doc                  gitmagic                 gitweb
+git-dpm                  git-man 
+--------------------------------------------------------------
+
+
+
+
+git - installiert
